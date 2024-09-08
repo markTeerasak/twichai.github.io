@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # golang
-./back-end/.env
+/back-end/.env
